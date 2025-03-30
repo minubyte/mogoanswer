@@ -9,6 +9,10 @@
 - 이미지들을 gemini api를 이용하여 '문항,정답' 형식으로 저장 (extract.py)
 - 시각화 (vis.py)
 
+# 크레딧
+- 데이터 제공 - [EBSi](https://www.ebsi.co.kr/ebs/xip/xipc/previousPaperList.ebs?targetCd=D300)
+- 글꼴 - [Pretendard](https://github.com/orioncactus/pretendard)
+
 # 요약
 ![num_1](https://github.com/minubyte/mogoanswer/blob/main/ans/vis/num_1.png)
 ![num_2](https://github.com/minubyte/mogoanswer/blob/main/ans/vis/num_2.png)  
@@ -54,4 +58,4 @@
 ![num_42](https://github.com/minubyte/mogoanswer/blob/main/ans/vis/num_42.png)
 ![num_43](https://github.com/minubyte/mogoanswer/blob/main/ans/vis/num_43.png)
 ![num_44](https://github.com/minubyte/mogoanswer/blob/main/ans/vis/num_44.png)
-![num_45](https://github.com/minubyte/mogoanswer/blob/maiasn/ans/vis/num_45.png)
+![num_45](https://github.com/minubyte/mogoanswer/blob/main/ans/vis/num_45.png)
