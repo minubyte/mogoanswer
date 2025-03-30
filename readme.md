@@ -1,13 +1,13 @@
 # mogoanswer
-학교 프로젝트
-수능/모고 영어 문항별 정답 빈도수 시각화
-데이터 수집 범위: 2018 ~ 2025
+학교 프로젝트 <br>
+수능/모고 영어 문항별 정답 빈도수 시각화 <br>
+데이터 수집 범위: 2018 ~ 2025 <br>
 
 # 제작 과정
-ebsi 기출문제 페이지에서 url 모음 (console.js)
-모은 url들을 이미지 형태로 다운로드 (download.py)
-이미지들을 gemini api를 이용하여 '문항,정답' 형식으로 저장 (extract.py)
-시각화 (vis.py)
+- ebsi 기출문제 페이지에서 url 모음 (console.js)
+- 모은 url들을 이미지 형태로 다운로드 (download.py)
+- 이미지들을 gemini api를 이용하여 '문항,정답' 형식으로 저장 (extract.py)
+- 시각화 (vis.py)
 
 # 요약
 ![num_1](https://github.com/minubyte/mogoanswer/blob/main/ans/vis/num_1.png)
