@@ -12,6 +12,8 @@
 # 크레딧
 - 데이터 제공 - [EBSi](https://www.ebsi.co.kr/ebs/xip/xipc/previousPaperList.ebs?targetCd=D300)
 - 글꼴 - [Pretendard](https://github.com/orioncactus/pretendard)
+- 시각화 - [pygame-ce](https://github.com/pygame-community/pygame-ce)
+- 이미지 처리 - [Pillow](https://github.com/python-pillow/Pillow/)
 
 # 요약
 ![num_1](https://github.com/minubyte/mogoanswer/blob/main/ans/vis/num_1.png)
